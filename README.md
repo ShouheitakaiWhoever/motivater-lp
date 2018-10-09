@@ -1,0 +1,2 @@
+# motivater-lp
+Motivaterのランディングページです。
